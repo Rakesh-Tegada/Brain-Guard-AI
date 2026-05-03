@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: brainguard-backend
+    runtime: docker
+    rootDir: backend
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: FRONTEND_URL
+        value: https://brain-guard.vercel.app
