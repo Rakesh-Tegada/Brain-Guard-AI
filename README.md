@@ -18,7 +18,7 @@ Make sure you have these installed:
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/BLOCK-PROGRAMR/Brain_Guard.git
+git clone https://github.com/Rakesh-Tegada/Brain_Guard.git
 cd Brain_Guard
 ```
 
