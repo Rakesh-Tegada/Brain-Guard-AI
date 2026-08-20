@@ -1,4 +1,4 @@
-# BrainGuard — Alzheimer's Detection AI
+#  BrainGuard — Alzheimer's Detection AI
 
 An AI-powered web application that detects Alzheimer's disease stages from brain MRI scans.  
 Built with **React** (frontend) + **FastAPI** (backend) + **EfficientNetB0** (deep learning model).
